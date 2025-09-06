@@ -1,5 +1,7 @@
 <h1 align="center">
+  <div align="center" style="background-color:#800080; color:white; padding:20px; border-radius:10px;">
   🚀✨ <b>Bem-vindo ao meu mundo!</b> ✨🚀
+</div>
 </h1>
 
 <p align="center">
