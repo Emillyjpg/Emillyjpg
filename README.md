@@ -28,7 +28,7 @@
 
 ### <img src="https://img.icons8.com/color/48/000000/code.png"/> Project 1
 **Description:** Sistema de agendamento para profissionais da beleza feito com Python, Flask e MySQL.  
-**Link:** [GitHub](https://github.com/Emillyjpg/beauty-agenda)  
+**Link:** [GitHub]([https://github.com/Emillyjpg/Agenda-Profissional.git])  
 **Status:** Complete ✅
 
 ---
