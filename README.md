@@ -19,12 +19,12 @@
 
 ## 🛠 Skills & Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,html,css,ts,flask,react,mysql" height="40"/>
+  <img src="https://skillicons.dev/icons?i=python,js,html,css,ts,mysql" height="40"/>
 </p>
 
 ---
 
-## 🚀 Projects
+## 🚀 Projetos
 
 ### <img src="https://img.icons8.com/color/48/000000/code.png"/> Project 1
 **Description:** Sistema de agendamento para profissionais da beleza feito com Python, Flask e MySQL.  
