@@ -5,7 +5,7 @@
 </h1>
 
 <p align="center">
-  <img src="./github-header-banner (1).png" width="900"/>
+  <img src="./github-header-banner (2).png" width="900"/>
 </p>
 
 ---
