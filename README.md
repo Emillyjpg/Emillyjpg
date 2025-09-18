@@ -35,7 +35,7 @@
 | 💇‍♀️ Sistema de Agendamento | Plataforma para profissionais da beleza gerenciarem clientes e horários | [Ver no GitHub](https://github.com/Emillyjpg) |
 | 📘 Estudos de Programação | Exercícios, resoluções e testes de lógica | [Ver no GitHub](https://github.com/Emillyjpg) |
 | 🎮 Jogo da Forca (Tkinter)| Jogo da forca utilizando a linguagem python (Tkinter) | [Ver no GiHun](https://github.com/Emillyjpg/JogoDaForca)|
-|🔑 Gerador de Senhas Fortes em Python| Gera senhas fortes a partir de uma palavra base utilizando substituições e aleatoriedade| [Ver no GitHub](https://github.com/Emillyjpg/GeradorDeSenhas)|
+|🔑 Gerador de Senhas Fortes| Gera senhas fortes a partir de uma palavra base utilizando substituições e aleatoriedade| [Ver no GitHub](https://github.com/Emillyjpg/GeradorDeSenhas)|
 ---
 
 
