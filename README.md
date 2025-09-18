@@ -34,6 +34,7 @@
 |------------|-------------|---------|
 | 💇‍♀️ Sistema de Agendamento | Plataforma para profissionais da beleza gerenciarem clientes e horários | [Ver no GitHub](https://github.com/Emillyjpg) |
 | 📘 Estudos de Programação | Exercícios, resoluções e testes de lógica | [Ver no GitHub](https://github.com/Emillyjpg) |
+| 🎮 Jogo da Forca (Tkinter)| Jogo da forca utilizando a linguagem pythno|[Ver no GiHun](https://github.com/Emillyjpg/JogoDaForca)|
 ---
 
 
