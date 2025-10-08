@@ -11,7 +11,7 @@
 ---
 ## 👩‍💻 Quem sou eu?
 
-💜 Oi! Eu sou a **Emilly**, uma dev apaixonada por **tecnologia, gatos, código bem escrito e python**.  
+💜 Oi! Eu sou a **Emilly**, uma dev apaixonada por **tecnologia, codar e  código bem escrito**.  
 📚 Estudante de **Análise e Desenvolvimento de Sistemas** + formada em **Técnico em Redes**.  
 🎯 Meu objetivo? Criar soluções que façam sentido e me desafiem a cada linha de código.  
 😎 Meu estilo? Sempre aprendendo, errando, acertando e **evoluindo no processo**.  
